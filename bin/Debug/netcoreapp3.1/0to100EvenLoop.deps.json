@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "0to100EvenLoop/1.0.0": {
+        "runtime": {
+          "0to100EvenLoop.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "0to100EvenLoop/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\logan\source\repos\0to100EvenLoop\bin\Debug\netcoreapp3.1\0to100EvenLoop.exe
+C:\Users\logan\source\repos\0to100EvenLoop\bin\Debug\netcoreapp3.1\0to100EvenLoop.deps.json
+C:\Users\logan\source\repos\0to100EvenLoop\bin\Debug\netcoreapp3.1\0to100EvenLoop.runtimeconfig.json
+C:\Users\logan\source\repos\0to100EvenLoop\bin\Debug\netcoreapp3.1\0to100EvenLoop.runtimeconfig.dev.json
+C:\Users\logan\source\repos\0to100EvenLoop\bin\Debug\netcoreapp3.1\0to100EvenLoop.dll
+C:\Users\logan\source\repos\0to100EvenLoop\bin\Debug\netcoreapp3.1\0to100EvenLoop.pdb
+C:\Users\logan\source\repos\0to100EvenLoop\obj\Debug\netcoreapp3.1\0to100EvenLoop.csproj.AssemblyReference.cache
+C:\Users\logan\source\repos\0to100EvenLoop\obj\Debug\netcoreapp3.1\0to100EvenLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\logan\source\repos\0to100EvenLoop\obj\Debug\netcoreapp3.1\0to100EvenLoop.AssemblyInfoInputs.cache
+C:\Users\logan\source\repos\0to100EvenLoop\obj\Debug\netcoreapp3.1\0to100EvenLoop.AssemblyInfo.cs
+C:\Users\logan\source\repos\0to100EvenLoop\obj\Debug\netcoreapp3.1\0to100EvenLoop.csproj.CoreCompileInputs.cache
+C:\Users\logan\source\repos\0to100EvenLoop\obj\Debug\netcoreapp3.1\0to100EvenLoop.dll
+C:\Users\logan\source\repos\0to100EvenLoop\obj\Debug\netcoreapp3.1\0to100EvenLoop.pdb
+C:\Users\logan\source\repos\0to100EvenLoop\obj\Debug\netcoreapp3.1\0to100EvenLoop.genruntimeconfig.cache
