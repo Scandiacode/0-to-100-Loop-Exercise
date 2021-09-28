@@ -6,11 +6,23 @@ namespace _0to100EvenLoop
     {
         static void Main(string[] args)
         {
+            //1
             for (int i = 0; i <= 100; i++)
             {
                 if (i % 2 == 0)
                 {
                     Console.WriteLine(i);
+                }
+            }
+            //2
+            bool runProgram = true;
+            while (runProgram == true)
+            {
+                Console.WriteLine("Do you want to continue lopping? (y/n)");
+                string loopAnswer = Console.ReadLine();
+                if (loopAnswer == "n")
+                {
+                    runProgram = false;
                 }
             }
         }
