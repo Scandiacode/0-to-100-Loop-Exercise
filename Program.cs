@@ -25,6 +25,15 @@ namespace _0to100EvenLoop
                     runProgram = false;
                 }
             }
+            //3
+            int sum = 0;
+
+            for(int i = 0; i <= 5; i++)
+            {
+                sum = sum + i;
+                
+                Console.WriteLine(sum);
+            }
         }
     }
 }
